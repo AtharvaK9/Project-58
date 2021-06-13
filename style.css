@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+img {
+    border: 2px;
+    border-style: solid;
+    border-color: chartreuse;
+    padding: 2px;
+    height: 150px;
+    width: 250px;
+}
+
+p {
+    font-size: 20px;
+    color: yellow;
+}
+
+h1 {
+    color: red;
+}
+ul {
+    background-color: aqua;
+}
+li:hover {
+    color: chartreuse;
+}
+#abt {
+    color: fuchsia;
+    text-underline-position:auto;
+    
+}
+
+u {
+   text-underline-position: below;
+    
+}
